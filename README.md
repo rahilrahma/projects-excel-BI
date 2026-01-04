@@ -96,3 +96,6 @@ The project uses multiple relational tables connected using Power Pivot relation
 
 ---
 
+## 📊 Dashboard Preview
+
+![Dashboard Overview](screenshots/Dashboard.png)
